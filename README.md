@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-React bekle bizi seni bitiricez.bebek
+React bekle bizi seni bitiricez.
 
 unsel's temporary commit
 
