@@ -2,6 +2,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 React bekle bizi seni bitiricez.
 
+unsel's temporary commit
+
 ## Available Scripts
 
 In the project directory, you can run:
